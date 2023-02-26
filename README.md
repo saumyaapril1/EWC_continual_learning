@@ -1,6 +1,6 @@
 # EWC_continual_learning
 
-The implementation is to understand how EWC (Elastic WeightConsolidation) helps overcome catastrophic forgetting in continual learning, hence comparing the two cases:
+This PyTorch implementation is to understand how EWC (Elastic WeightConsolidation) helps overcome catastrophic forgetting in continual learning, hence comparing the two cases:
 1) Precision when training without consolidation
 2) Preciasion when training with consolidation
 
