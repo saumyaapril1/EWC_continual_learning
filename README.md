@@ -1,5 +1,6 @@
 # EWC_continual_learning
 
+I implemented this to have an understanding of EWC. 
 This PyTorch implementation is to understand how EWC (Elastic WeightConsolidation) helps overcome catastrophic forgetting in continual learning, hence comparing the two cases:
 1) Precision when training without consolidation
 2) Preciasion when training with consolidation
@@ -22,7 +23,6 @@ Following are the arguments considered during the implementation.
 -eval_log_interval
 -loss_log_interval
 -consolidate_
-
 
 
 
